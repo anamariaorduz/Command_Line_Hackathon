@@ -4,7 +4,7 @@
 
 * On your Desktop, there should be a folder called `wyncode`.  Make one if it doesn't exist yet.
 * `cd` into your `wyncode` folder.
-* `git clone git@github.com:wyncode/command_line_hackathon.git`. This will create a new folder called `command_line_hackathon` inside your `wyncode` folder.
+* `git clone https://github.com/wyncode/command_line_hackathon.git`. This will create a new folder called `command_line_hackathon` inside your `wyncode` folder.
 * `cd` into `command_line_hackathon`.
 * `ls` from within the `command_line_hackathon` folder.  You should see a file called `presidents.txt`, one called `CODEOWNERS`, and one called `README.md`.  
 
