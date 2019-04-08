@@ -16,7 +16,7 @@ Use only Terminal commands to achieve these goals.  No cheating by using a GUI!
 * Move the `presidents.txt` file into the `presidents` directory.
 * Inside the `presidents` directory, make a new file called `sorted.txt`, which `sort`s the presidents in alphabetical order by first name.
 * Inside the `presidents` directory, make a new file called `jameses.txt` which contains all the presidents named James (Hint: `grep`).
-* Inside the `presidents` directory, make a new file called `williamses.txt`, which contains all the presidents named William (Hint: `grep`).
+* Inside the `presidents` directory, make a new file called `williams.txt`, which contains all the presidents named William (Hint: `grep`).
 * Inside the `presidents` directory, make a new file called `my_favorite.txt`.   Use `echo` to write the name of your favorite president inside.
 * Use `curl` to download the contents of this webpage (https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States) into a file called `presidents.html`
 
